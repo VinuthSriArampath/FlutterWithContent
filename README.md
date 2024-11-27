@@ -1,4 +1,4 @@
-# flutter_content
+# FlutterWithContent
 
 A simple Flutter Project With Content
 
